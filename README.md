@@ -56,7 +56,7 @@ TENCENT GAMES USER AGREEMENT: https://www.pubgmobile.com/terms.html
 
 
 <input>ID
-<h1></h1>
+
 <input>Redim code
 
 
