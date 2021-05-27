@@ -58,3 +58,9 @@ TENCENT GAMES USER AGREEMENT: https://www.pubgmobile.com/terms.html
 <input>ID
 <h1></h1>
 <input>Redim code
+
+
+
+<button type="button" onclick="alert('هیچ ربات فرستنده آیی نیست در حال درست شدن است سایت شاید سایت درست شده صفحه رو به پایین بکشید تا سایت تازه سازی بشه اگه درست نشد سایت هنوز اماده نشده')">ثبت </button>
+
+
