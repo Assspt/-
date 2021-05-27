@@ -52,7 +52,7 @@ Please see the PUBG Mobile PRIVACY POLICY and USER AGREEMENT
 PRIVACY POLICY: http://pubgmobile.proximabeta.com/privacy.html
 TENCENT GAMES USER AGREEMENT: https://www.pubgmobile.com/terms.html
 
-<img id="kelidestan" src="https://www.amazon.it/Tencent-Games-PUBG-MOBILE-Miramar/dp/B07KGPFYY5# " width="300" height="300">
+<img id="kelidestan" src=" https://media.pocketgamer.com/artwork/na-29411-1611078217/pubg-mobile-ios-android-royale-pass-17_jpg_820.webp" width="400" height="300">
 
 
 <input>ID
