@@ -2,3 +2,28 @@ body{
 margin:0;
 
 }
+text-align: center;
+ direction: rtl;
+ font-family: tahoma;
+ }
+ 
+ a.button {
+ display: inline-block;
+ padding: 0.5em 2em;
+ background-color: #088;
+ color: #fff;
+ text-decoration: none;
+ border-radius: 0.2em;
+ border-bottom: 2px solid #044;
+ }
+ 
+ a.button:hover {
+ background-color: #0aa;
+ border-bottom-color: #088;
+ }
+ </style>
+</head>
+<body>
+ <a href="https://rokaweb.ir" class="button">طراحی سایت - روکا</a>
+</body>
+</html>
