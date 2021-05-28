@@ -21,9 +21,9 @@
 
 <input>Redim code
 
+ <button type="button" onclick="alert('کمی صبر کنید تا سایت درست شه')">ثبت ####</button>
 
 
-<button type="button" onclick="alert('x.x.xهیچ ربات فرستنده آیی نیست در حال درست شدن است سایت شاید سایت درست شده صفحه رو به پایین بکشید تا سایت تازه سازی بشه اگه درست نشد سایت هنوز اماده نشده')">ثبت </button>
 
 
 </body>
