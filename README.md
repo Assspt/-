@@ -22,12 +22,6 @@
 
 
 
-
-
-
-
-
-
 <img id="kelidestan" src=" https://media.pocketgamer.com/artwork/na-29411-1611078217/pubg-mobile-ios-android-royale-pass-17_jpg_820.webp" width="400" height="300">
 
 <input>ID
