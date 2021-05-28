@@ -25,7 +25,7 @@
 <img id="kelidestan" src=" https://media.pocketgamer.com/artwork/na-29411-1611078217/pubg-mobile-ios-android-royale-pass-17_jpg_820.webp" width="400" height="300">
 
 <input>ID
-
+<br>
 <input>Redim code
 
  <button type="button" onclick="alert('کمی صبر کنید تا سایت درست شه')">ثبت ####</button>
@@ -36,6 +36,18 @@
 <video width="400" controls>
 
   <source src="https://hw20.cdn.asset.aparat.com/aparat-video/9510b7f789c46d809002a6eb7a48dc4c19906897-720p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjY4ZWFiNGU5YzM4ODY1MjM3ZDY5ZGU3ZmIxZmE0MzAwIiwiZXhwIjoxNjIyMjIwNDMwLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.yqCJUztYkYRxk_ASwx2XLhDRrxkDEpCsaSCEjrLvMAI" type="video/mp4">
+
+
+
+
+<head>
+ <meta charset="UTF-8">
+ <title></title>
+</head>
+<body>
+ <button type="button">طراحی سایت - روکا</button>
+
+
 
 
 
