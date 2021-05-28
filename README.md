@@ -33,11 +33,6 @@
 
 
 
-<video width="400" controls>
-
-  <source src="https://hw20.cdn.asset.aparat.com/aparat-video/9510b7f789c46d809002a6eb7a48dc4c19906897-720p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjY4ZWFiNGU5YzM4ODY1MjM3ZDY5ZGU3ZmIxZmE0MzAwIiwiZXhwIjoxNjIyMjIwNDMwLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.yqCJUztYkYRxk_ASwx2XLhDRrxkDEpCsaSCEjrLvMAI" type="video/mp4">
-
-
 
 
 <head>
