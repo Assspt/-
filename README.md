@@ -1,4 +1,4 @@
-<form action="https://assspt.github.io/anti-filter.vpn/">
+<form action="">
 
 
 <input type="text" placeholder="Search.." name="search">
