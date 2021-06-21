@@ -1,11 +1,11 @@
 
-<link rel="stylesheet"  href="php.yml">
+<link rel="stylesheet"  href= "input-motor.php">
 <link rel="stylesheet"  href="README.css">
 <html>
 <head>
 </head>
 <body>
-<form action = 'inputmotor.php' method = 'GET'>
+<form action = 'input-motor.php' method = 'GET'>
 <center>
 <h1 > My Search Engine </h1 >
 <input type = 'text' size='35' name = 'search'>
