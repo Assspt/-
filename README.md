@@ -5,7 +5,7 @@
 <head>
 </head>
 <body>
-<form action = 'input-motor.php' method = 'GET'>
+<form action ='input-motor.php' method = 'GET'>
 <center>
 <h1 > My Search Engine </h1 >
 <input type = 'text' size='35' name = 'search'>
