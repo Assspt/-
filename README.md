@@ -1,8 +1,18 @@
 
 <link rel="stylesheet"  href="php.yml">
 <link rel="stylesheet"  href="README.css">
-<h1>blogn servr</h1>
-<form action="">
-<input type="text" placeholder="Search.." name="search">
-<button type="submit">mmm<i class="fa fa-search"></i></button>
-</form>
+<html>
+<head>
+</head>
+<body>
+<form action = 'inputmotor.php' method = 'GET'>
+<center>
+<h1 > My Search Engine </h1 >
+<input type = 'text' size='35' name = 'search'>
+</ br >
+</ br >
+<input type = 'submit' name = 'submit' value = 'Search source code'>
+<option> 10 </option>
+<option> 20 </option>
+<option> 50 </option>
+</center>
