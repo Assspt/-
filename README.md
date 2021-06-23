@@ -5,10 +5,10 @@
 <tr>
 <td>
 <a href="http://www.google.com/">
-<img src="http://www.google.com/logos/Logo_40wht.gif" border="0" alt="Google" align="absmiddle"></a>
+<img src="" border="0" alt="" align=""></a>
 <input type="text" name="q" size="31" maxlength="255" value="">
 <input type="hidden" name="hl" value="en">
-<input type="submit" name="btnG" value="Google Search">
+<input type="submit" name="btnG" value="سرچ">
 </td>
 </tr>
 </table>
