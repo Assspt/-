@@ -16,7 +16,4 @@
  <!-- Search Google -->
          
 <body style="background-color: #000000;">
-
-<div class = "header">
-<img src= "https://picsale.ir/wp-content/uploads/edd/2017/11/00523.jpg"alt="logo">
-</div>
+![alt text](http://url/to/img.png)
