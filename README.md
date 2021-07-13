@@ -16,4 +16,4 @@
  <!-- Search Google -->
          
 <body style="background-color: #000000;">
-<img src= "https://about.gitlab.com/images/icons/shield-checkmark.svg"style="width:100; height:200;">
+
