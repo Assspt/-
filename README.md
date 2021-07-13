@@ -16,6 +16,4 @@
  <!-- Search Google -->
          
 
-<div class = "header">
-<img src= "photo-1550147760-44c9966d6bc7.jpeg"alt="logo">
-</div>
+
